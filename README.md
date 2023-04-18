@@ -83,4 +83,13 @@
 
 ---
 
+
+<h3 align="center">Contact me:</h3>
+
+<div align="center">
+  <a href="https://www.patrickfender.de">www.patrickfender.de</a>
+  <span>&nbsp;|&nbsp;</span>
+  <a href="mailto:hello@patrickfender.de">hello@patrickfender.de</a>
+</div>
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=paddomanno&label=Profile%20views&color=0eb440&style=flat" alt="paddomanno" /> </p>
