@@ -38,7 +38,7 @@
 [![JSON/REST](https://img.shields.io/badge/-JSON%2FREST-000000?style=for-the-badge)](https://restfulapi.net/)
 [![Node.js](https://img.shields.io/badge/-Node.js-339933?style=for-the-badge&logo=node-dot-js&logoColor=white)](https://nodejs.org/)
 [![Express.js](https://img.shields.io/badge/-Express.js-000000?style=for-the-badge)](https://expressjs.com/)
-[![Faker.js](https://img.shields.io/badge/-Faker.js-3498DB?style=for-the-badge)](https://github.com/marak/Faker.js/)
+[![Faker.js](https://img.shields.io/badge/-Faker.js-3498DB?style=for-the-badge)](https://fakerjs.dev/)
 [![NextAuth](https://img.shields.io/badge/-NextAuth-000000?style=for-the-badge)](https://next-auth.js.org/)
 [![Chrome Devtools](https://img.shields.io/badge/-Chrome_Devtools-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white)](https://developer.chrome.com/docs/devtools/)
 [![Firefox Devtools](https://img.shields.io/badge/-Firefox_Devtools-FF7139?style=for-the-badge&logo=firefox-browser&logoColor=white)](https://developer.mozilla.org/en-US/docs/Tools) 
@@ -96,6 +96,8 @@
 [![Microsoft Office](https://img.shields.io/badge/-Microsoft%20Office-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white)](https://www.office.com/)
 [![Google Office](https://img.shields.io/badge/-Google%20Office-4285F4?style=for-the-badge&logo=google-drive&logoColor=white)](https://www.google.com/drive/) 
 
+
+<h3 align="left">Statistics:</h3>
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=paddomanno&show_icons=true&locale=en&layout=compact" alt="paddomanno" /></p>
 
