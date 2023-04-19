@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **NextJS**, **tRPC** and a lot more new and exiting tools!
 
-- 👨‍💻 All of my projects are available at **[www.patrickfender.de](www.patrickfender.de)**
+- 👨‍💻 All of my projects are available at **[www.patrickfender.de](https://www.patrickfender.de)**
 
 - 📫 Feel free to reach out at **[hello@patrickfender.de](mailto:hello@patrickfender.de)**
 
