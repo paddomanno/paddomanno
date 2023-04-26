@@ -49,7 +49,7 @@
 [![Supabase](https://img.shields.io/badge/-Supabase-181818?style=for-the-badge)](https://supabase.io/)
 
 - ###### Web APIs and Web Services:
-[![Apache Thrift](https://img.shields.io/badge/-Apache%20Thrift-D92228?style=for-the-badge&logo=apache%20thrift&logoColor=white)](https://thrift.apache.org/)
+<!-- [![Apache Thrift](https://img.shields.io/badge/-Apache%20Thrift-D92228?style=for-the-badge&logo=apache%20thrift&logoColor=white)](https://thrift.apache.org/) -->
 [![REST](https://img.shields.io/badge/-JSON%2FREST-000000?style=for-the-badge)](https://restfulapi.net/)
 [![tRPC](https://img.shields.io/badge/-tRPC-000000?style=for-the-badge)](https://trpc.io/)
 
