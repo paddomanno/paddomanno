@@ -3,11 +3,11 @@
 
 <h3 align="left">About me:</h3>
 
+- 🌐 I enjoy working on full-stack web development
+
+- 👨‍💻 You can check out my projects on my GitHub repositories.
+
 - 🌱 I’m currently learning **NextJS**, **tRPC** and a lot more new and exiting tools!
-
-- 👨‍💻 All of my projects are available at **[www.patrickfender.de](https://www.patrickfender.de)**
-
-- 📫 Feel free to reach out at **[hello@patrickfender.de](mailto:hello@patrickfender.de)**
 
 
 
@@ -35,28 +35,26 @@
 [![DaisyUI](https://img.shields.io/badge/-DaisyUI-44B78B?style=for-the-badge&logo=tailwind-css&logoColor=white)](https://daisyui.com/)
 [![Material UI](https://img.shields.io/badge/-Material_UI-0081CB?style=for-the-badge&logo=material-ui&logoColor=white)](https://material-ui.com/)
 [![React.js](https://img.shields.io/badge/-React.js-61DAFB?style=for-the-badge&logo=react&logoColor=white)](https://reactjs.org/)
+[![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)](https://vitejs.dev/)
+[![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vuedotjs&logoColor=white)](https://vuejs.org/)
 [![NPM](https://img.shields.io/badge/-NPM-CB3837?style=for-the-badge&logo=npm&logoColor=white)](https://www.npmjs.com/)
-[![Tanstack Query](https://img.shields.io/badge/-Tanstack_Query-FFD800?style=for-the-badge&logo=react&logoColor=white)](https://tanstack.com/query/)
 [![Faker.js](https://img.shields.io/badge/-Faker.js-3498DB?style=for-the-badge)](https://fakerjs.dev/)
-[![NextAuth](https://img.shields.io/badge/-NextAuth-000000?style=for-the-badge)](https://next-auth.js.org/)
+[![Express.js](https://img.shields.io/badge/-Express.js-000000?style=for-the-badge)](https://expressjs.com/)
+<!-- [![Tanstack Query](https://img.shields.io/badge/-Tanstack_Query-FFD800?style=for-the-badge&logo=react&logoColor=white)](https://tanstack.com/query/) -->
+<!-- [![NextAuth](https://img.shields.io/badge/-NextAuth-000000?style=for-the-badge)](https://next-auth.js.org/) -->
 
 - ###### Database Management:
 [![SQL](https://img.shields.io/badge/-SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)](https://en.wikipedia.org/wiki/SQL)
 [![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)](https://www.mysql.com/)
 [![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)](https://www.postgresql.org/)
 [![Prisma](https://img.shields.io/badge/-Prisma-1B222D?style=for-the-badge)](https://www.prisma.io/)
-[![Planetscale](https://img.shields.io/badge/-Planetscale-262626?style=for-the-badge)](https://www.planetscale.com/)
-[![Supabase](https://img.shields.io/badge/-Supabase-181818?style=for-the-badge)](https://supabase.io/)
+<!-- [![Planetscale](https://img.shields.io/badge/-Planetscale-262626?style=for-the-badge)](https://www.planetscale.com/) -->
+<!-- [![Supabase](https://img.shields.io/badge/-Supabase-181818?style=for-the-badge)](https://supabase.io/) -->
 
-- ###### Web APIs and Web Services:
+<!-- - ###### Web APIs and Web Services: -->
 <!-- [![Apache Thrift](https://img.shields.io/badge/-Apache%20Thrift-D92228?style=for-the-badge&logo=apache%20thrift&logoColor=white)](https://thrift.apache.org/) -->
-[![REST](https://img.shields.io/badge/-JSON%2FREST-000000?style=for-the-badge)](https://restfulapi.net/)
-[![tRPC](https://img.shields.io/badge/-tRPC-000000?style=for-the-badge)](https://trpc.io/)
-
-- ###### Web Frameworks:
-[![Next.js](https://img.shields.io/badge/-Next.js-000000?style=for-the-badge&logo=next-dot-js&logoColor=white)](https://nextjs.org/)
-[![React.js](https://img.shields.io/badge/-React.js-61DAFB?style=for-the-badge&logo=react&logoColor=white)](https://reactjs.org/)
-[![Express.js](https://img.shields.io/badge/-Express.js-000000?style=for-the-badge)](https://expressjs.com/)
+<!-- [![REST](https://img.shields.io/badge/-JSON%2FREST-000000?style=for-the-badge)](https://restfulapi.net/) -->
+<!-- [![tRPC](https://img.shields.io/badge/-tRPC-000000?style=for-the-badge)](https://trpc.io/) -->
 
 - ###### Testing and Quality:
 [![Jest](https://img.shields.io/badge/-Jest-C21325?style=for-the-badge&logo=jest&logoColor=white)](https://jestjs.io/)
@@ -82,14 +80,5 @@
 [![VSCode](https://img.shields.io/badge/-VSCode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)](https://code.visualstudio.com/)
 
 ---
-
-
-<h3 align="center">Contact me:</h3>
-
-<div align="center">
-  <a href="https://www.patrickfender.de">www.patrickfender.de</a>
-  <span>&nbsp;|&nbsp;</span>
-  <a href="mailto:hello@patrickfender.de">hello@patrickfender.de</a>
-</div>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=paddomanno&label=Profile%20views&color=0eb440&style=flat" alt="paddomanno" /> </p>
